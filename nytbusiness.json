@@ -1,0 +1,3052 @@
+{
+  "rss": {
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "@xmlns:media": "http://search.yahoo.com/mrss/",
+    "@xmlns:atom": "http://www.w3.org/2005/Atom",
+    "@xmlns:nyt": "http://www.nytimes.com/namespaces/rss/2.0",
+    "@version": "2.0",
+    "channel": {
+      "title": "NYT > Business",
+      "link": "https://www.nytimes.com/section/business",
+      "atom:link": {
+        "@href": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "@rel": "self",
+        "@type": "application/rss+xml"
+      },
+      "description": null,
+      "language": "en-us",
+      "copyright": "Copyright 2025 The New York Times Company",
+      "lastBuildDate": "Tue, 13 May 2025 15:53:39 +0000",
+      "pubDate": "Tue, 13 May 2025 15:51:06 +0000",
+      "image": {
+        "title": "NYT > Business",
+        "url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
+        "link": "https://www.nytimes.com/section/business"
+      },
+      "item": [
+        {
+          "title": "Chasing Tax Cuts, Trump and Republicans Want to Make States Pay",
+          "link": "https://www.nytimes.com/2025/05/13/us/politics/trump-republicans-tax-cuts-spending-states.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/us/politics/trump-republicans-tax-cuts-spending-states.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/us/politics/trump-republicans-tax-cuts-spending-states.html",
+            "@rel": "standout"
+          },
+          "description": "G.O.P. leaders are exploring cuts to federal aid, leaving some states fearful that their budgets cannot absorb billions of dollars in new costs.",
+          "dc:creator": "Tony Romm",
+          "pubDate": "Tue, 13 May 2025 15:44:54 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Federal-State Relations (US)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "States (US)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Taxation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Federal Aid (US)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Health Insurance and Managed Care"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/multimedia/09dc-trump-states-fkch/09dc-trump-states-fkch-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Eric Lee/The New York Times",
+          "media:description": "President Trump and his Republican allies in Congress are coalescing around a new strategy: forcing cash-strapped states to pick up more of the bill for government services."
+        },
+        {
+          "title": "How Pandora Is Surviving Trump\u2019s Trade War",
+          "link": "https://www.nytimes.com/2025/05/13/business/trump-tariffs-pandora-jewelry.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/business/trump-tariffs-pandora-jewelry.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/business/trump-tariffs-pandora-jewelry.html",
+            "@rel": "standout"
+          },
+          "description": "Pandora, the Danish jewelry company, said it was \u201cbattle ready,\u201d with plans to raise prices and reroute shipments from the United States, but tariffs could potentially cost it millions of dollars.",
+          "dc:creator": "Eshe Nelson",
+          "pubDate": "Tue, 13 May 2025 15:51:06 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Jewels and Jewelry"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Supply Chain"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Factories and Manufacturing"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Relocation of Business"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Pandora A/S"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Lacik, Alexander"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/14/multimedia/14biz-pandora-01-kwmp/14biz-pandora-01-kwmp-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Bryan Anselm for The New York Times",
+          "media:description": "Shoppers in a Pandora jewelry store at the American Dream mall in East Rutherford, N.J. The company, best known for its silver charm bracelets, has been making jewelry in Thailand since 1989."
+        },
+        {
+          "title": "Carvana, a Used Car Retailer, Thinks Tariffs Could be Good for Business",
+          "link": "https://www.nytimes.com/2025/05/13/business/economy/trump-tariffs-used-cars-carvana.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/business/economy/trump-tariffs-used-cars-carvana.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/business/economy/trump-tariffs-used-cars-carvana.html",
+            "@rel": "standout"
+          },
+          "description": "The chief executive of Carvana, which sells used cars online, said President Trump\u2019s tariffs could help his company by increasing demand for its vehicles.",
+          "dc:creator": "Neal E. Boudette",
+          "pubDate": "Tue, 13 May 2025 15:22:59 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Used Cars"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "E-Commerce"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Automobiles"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Coronavirus (2019-nCoV)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Carvana Co"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Garcia, Ernie"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12biz-carvana-tariffs-pqzk-copy/12biz-carvana-tariffs-pqzk-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Brandon Bell/Getty Images",
+          "media:description": "Carvana, an online seller of used cars, sees opportunity in high tariffs because it expects demand for used cars to climb."
+        },
+        {
+          "title": "Is Slate Auto\u2019s Electric Truck the Answer to Expensive Cars?",
+          "link": "https://www.nytimes.com/2025/05/13/business/slate-auto-electric-truck.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/business/slate-auto-electric-truck.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/business/slate-auto-electric-truck.html",
+            "@rel": "standout"
+          },
+          "description": "Slate Auto, a start-up backed by Jeff Bezos, plans to sell a small, spartan electric truck that comes with no paint, stereo or touch-screens.",
+          "dc:creator": "Lawrence Ulrich",
+          "pubDate": "Tue, 13 May 2025 15:22:43 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Automobiles"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Electric and Hybrid Vehicles"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Start-ups"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Sports Utility Vehicles and Light Trucks"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Personal Finances"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Small Cars (Compact, Subcompact and Microcars)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Factories and Manufacturing"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Batteries"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Trucks and Trucking"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Slate Auto"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Indiana"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Detroit (Mich)"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/06/multimedia/00biz-affordable-cars-01-fpqg/00biz-affordable-cars-01-fpqg-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Emily Elconin for The New York Times",
+          "media:description": "A model truck at Slate Auto\u2019s design center in Troy, Mich. The company is backed by venture capital firms and Jeff Bezos, the Amazon founder."
+        },
+        {
+          "title": "CPI Report Shows Inflation Cooled in April Ahead of Likely Jump From Tariffs",
+          "link": "https://www.nytimes.com/2025/05/13/business/inflation-prices-tariffs.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/business/inflation-prices-tariffs.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/business/inflation-prices-tariffs.html",
+            "@rel": "standout"
+          },
+          "description": "Economists and policymakers are bracing for inflation to re-accelerate as companies adapt to President Trump\u2019s trade war.",
+          "dc:creator": "Colby Smith",
+          "pubDate": "Tue, 13 May 2025 14:41:23 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Consumer Price Index"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Inflation (Economics)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Interest Rates"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Bureau of Labor Statistics"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/13/multimedia/13dc-cpi-qgzk/13dc-cpi-qgzk-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Graham Dickie/The New York Times",
+          "media:description": "Economists predict that U.S. consumers will face higher costs because of tariffs."
+        },
+        {
+          "title": "Jerome Powell, a Potential Winner from the Trade Reprieve",
+          "link": "https://www.nytimes.com/2025/05/13/business/dealbook/powell-fed-rates-tariffs.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/business/dealbook/powell-fed-rates-tariffs.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/business/dealbook/powell-fed-rates-tariffs.html",
+            "@rel": "standout"
+          },
+          "description": "The markets have come around to the Federal Reserve chairman\u2019s cautious approach to lowering interest rates. President Trump could be a tougher convert.",
+          "dc:creator": "Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee",
+          "pubDate": "Tue, 13 May 2025 11:49:11 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "internal-storyline-no"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Powell, Jerome H"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Federal Reserve System"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Interest Rates"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Protectionism (Trade)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Xi Jinping"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Bessent, Scott"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Ships and Shipping"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/13/multimedia/13db-powell-bcvh/13db-powell-bcvh-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images",
+          "media:description": "Investors and economists have suddenly come around to Jay Powell\u2019s wait-and-see stance on interest rates."
+        },
+        {
+          "title": "U.S. Could Lose $12.5 Billion In International Travel Spending This Year, Tourism Council Says",
+          "link": "https://www.nytimes.com/2025/05/13/travel/united-states-international-visitors-decline.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/travel/united-states-international-visitors-decline.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/travel/united-states-international-visitors-decline.html",
+            "@rel": "standout"
+          },
+          "description": "Border detentions and confusion over visas are deterring international visitors, according to the World Travel & Tourism Council, and the price tag for their hesitancy could be steep.",
+          "dc:creator": "Ceylan Ye\u011finsu",
+          "pubDate": "Tue, 13 May 2025 09:02:12 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Travel and Vacations"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "World Travel and Tourism Council"
+            },
+            {
+              "@domain": "",
+              "#text": "International Tourism"
+            }
+          ],
+          "media:content": {
+            "@height": "1799",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trav-wttc-decline-vfgt/13trav-wttc-decline-vfgt-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Dakota Santiago for The New York Times",
+          "media:description": "The United States is on track to lose $12.5 billion in international travel spending this year, according to the latest Economic Impact Research published by the W.T.T.C. Above, travelers at Newark Liberty International Airport, in New Jersey, a major hub for international flights."
+        },
+        {
+          "title": "Tariff Misery in Japan: Honda and Nissan Forecast Plunges in Profit",
+          "link": "https://www.nytimes.com/2025/05/13/business/trump-tariffs-nissan-honda.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/business/trump-tariffs-nissan-honda.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/business/trump-tariffs-nissan-honda.html",
+            "@rel": "standout"
+          },
+          "description": "Distress is spreading in Japan\u2019s auto sector, putting into question Tokyo\u2019s approach to trade negotiations with the United States.",
+          "dc:creator": "River Akira Davis and Kiuko Notoya",
+          "pubDate": "Tue, 13 May 2025 10:33:15 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Honda Motor Co Ltd"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Nissan Motor Co"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Japan"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Toyota Motor Corp"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Automobiles"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/13/multimedia/13Biz-Japan-Tariffs-lfcp/13Biz-Japan-Tariffs-lfcp-mediumSquareAt3X-v2.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Noriko Hayashi for The New York Times",
+          "media:description": "Nissan\u2019s global headquarters in Yokohama, Japan. The company suspended its profit forecast for this year."
+        },
+        {
+          "title": "A Toxic Pit Could Be a Gold Mine for Rare-Earth Elements",
+          "link": "https://www.nytimes.com/2025/05/13/science/berkeley-mine-pit-rare-earths.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/science/berkeley-mine-pit-rare-earths.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/science/berkeley-mine-pit-rare-earths.html",
+            "@rel": "standout"
+          },
+          "description": "Mining continues at the Continental Pit. Nearby is the Berkeley Pit, a site for acid mine drainage that poses an opportunity for extracting valuable metals.",
+          "dc:creator": "Jim Robbins",
+          "pubDate": "Tue, 13 May 2025 15:30:36 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Mines and Mining"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Water Pollution"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Metals and Minerals"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Rare Earths"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Waste Materials and Disposal"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Research"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Government Contracts and Procurement"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Factories and Manufacturing"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Pollution"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Lithium (Metal)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Center for Strategic and International Studies"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Defense Department"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Energy Department"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Oregon State University"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            }
+          ]
+        },
+        {
+          "title": "German Companies Grow Wary of Investing in the U.S.",
+          "link": "https://www.nytimes.com/2025/05/13/business/germany-us-trade-trump.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/business/germany-us-trade-trump.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/business/germany-us-trade-trump.html",
+            "@rel": "standout"
+          },
+          "description": "German companies invest more than three times as much in the United States as American companies do in Germany, but they are starting to rethink that strategy.",
+          "dc:creator": "Melissa Eddy",
+          "pubDate": "Tue, 13 May 2025 15:36:29 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Factories and Manufacturing"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Foreign Investments"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Bayerische Motorenwerke AG"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Haribo"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Stihl Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Volkswagen AG"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Merz, Friedrich"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Germany"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/13/multimedia/13biz-germany-tariffs-04-mvkg/13biz-germany-tariffs-04-mvkg-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "John Minchillo/Associated Press",
+          "media:description": "German companies have been producing goods in the United States since the late 1800s, but recent surveys indicate that German manufacturers are pulling back from investing in America."
+        },
+        {
+          "title": "There Are Two Chinas, and America Must Understand Both",
+          "link": "https://www.nytimes.com/2025/05/13/business/china-economy-us-trade-war.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/business/china-economy-us-trade-war.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/business/china-economy-us-trade-war.html",
+            "@rel": "standout"
+          },
+          "description": "The technological success that has captured the attention of many in the United States is one aspect of the Chinese economy. There\u2019s another, gloomy one.",
+          "dc:creator": "Li Yuan",
+          "pubDate": "Tue, 13 May 2025 05:16:09 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Economic Conditions and Trends"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "United States"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Xi Jinping"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Intelligence"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States International Relations"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Communist Party of China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "DeepSeek Artificial Intelligence Co Ltd"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Huawei Technologies Co Ltd"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "BYD Co Ltd"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/business/12newworld/12newworld-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Dongyan Xu"
+        },
+        {
+          "title": "With Guarantees Galore, Christie\u2019s Has a Rocky Start to Auction Week",
+          "link": "https://www.nytimes.com/2025/05/12/arts/design/auction-christies-mondrian-monet.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/arts/design/auction-christies-mondrian-monet.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/arts/design/auction-christies-mondrian-monet.html",
+            "@rel": "standout"
+          },
+          "description": "There was little excited bidding on the art collection of the Riggio family, who built their fortune on the Barnes & Noble bookstore chain \u2014 a caution flag for the art market.",
+          "dc:creator": "Zachary Small and Tim F. Schneider",
+          "pubDate": "Tue, 13 May 2025 02:50:22 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Auctions"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Art"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Christie's"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Riggio, Leonard"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Mondrian, Piet"
+            }
+          ]
+        },
+        {
+          "title": "Elon Musk\u2019s Boring Company Is in Talks With Government Over Amtrak Project",
+          "link": "https://www.nytimes.com/2025/05/12/technology/elon-musk-boring-company-amtrak.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/technology/elon-musk-boring-company-amtrak.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/technology/elon-musk-boring-company-amtrak.html",
+            "@rel": "standout"
+          },
+          "description": "The Federal Railroad Administration has brought in the tunneling company to see if it could help with a multibillion-dollar rail project.",
+          "dc:creator": "Ryan Mac and Mark Walker",
+          "pubDate": "Tue, 13 May 2025 00:45:51 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Bridges and Tunnels"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Conflicts of Interest"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Railroads"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Transportation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Infrastructure (Public Works)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Amtrak"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Boring Company"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Federal Railroad Administration"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Government Efficiency Department (US)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Transportation Department (US)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Davis, Steve (Construction Executive)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Duffy, Sean P"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Musk, Elon"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/business/00BORING-TUNNEL/00BORING-TUNNEL-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Jordan Vonderhaar/Bloomberg",
+          "media:description": "The Boring Company facility in Bastrop, Texas. The Federal Railroad Administration has brought in the tunneling firm, founded by Elon Musk, to help with a multibillion-dollar Amtrak project."
+        },
+        {
+          "title": "\u2018MAGA Accounts\u2019 and No Tax on Tips: Republicans Plan to Inject Trump Into Tax Code",
+          "link": "https://www.nytimes.com/2025/05/12/business/republicans-tax-bill-trump.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/republicans-tax-bill-trump.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/republicans-tax-bill-trump.html",
+            "@rel": "standout"
+          },
+          "description": "House Republicans on Monday outlined their plans for a far-reaching tax bill that would deliver on several of President Trump\u2019s campaign pledges \u2014 for now.",
+          "dc:creator": "Andrew Duehren",
+          "pubDate": "Tue, 13 May 2025 00:18:12 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Law and Legislation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Tax Credits, Deductions and Exemptions"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Tips and Tipping"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Income Tax"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Social Security (US)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Child Tax Credits and Stipends"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Republican Party"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "House of Representatives"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Tax Cuts and Jobs Act (2017)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Overtime"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12dc-taxbill-jchz/12dc-taxbill-jchz-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Eric Lee/The New York Times",
+          "media:description": "The tax legislation proposed by House Republicans would temporarily enact several of President Trump\u2019s campaign pledges."
+        },
+        {
+          "title": "Trump\u2019s China Deal Frees Up Shipping. Will Goods Pour Into the U.S.?",
+          "link": "https://www.nytimes.com/2025/05/12/business/economy/trump-china-trade-shipments.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/economy/trump-china-trade-shipments.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/economy/trump-china-trade-shipments.html",
+            "@rel": "standout"
+          },
+          "description": "The temporary lowering of tariffs may compel some U.S. businesses to order goods that they had held off buying after President Trump raised them to 145 percent.",
+          "dc:creator": "Peter Eavis and Danielle Kaye",
+          "pubDate": "Mon, 12 May 2025 21:25:59 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Toys"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Coronavirus (2019-nCoV)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States International Relations"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Ports"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Supply Chain"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Factories and Manufacturing"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Ships and Shipping"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Trucks and Trucking"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Freight (Cargo)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Basic Fun Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Port of Los Angeles (Calif)"
+            }
+          ],
+          "media:content": {
+            "@height": "1799",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/13/multimedia/13biz-trade-rebound-wjmg/13biz-trade-rebound-wjmg-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Scott McIntyre for The New York Times",
+          "media:description": "Experts say whiplash tariff policies are piling stress onto the companies that transport goods around the world."
+        },
+        {
+          "title": "Hollywood Groups Call for Tax Changes After Trump\u2019s Tariff Threat",
+          "link": "https://www.nytimes.com/2025/05/12/business/media/trump-tariffs-movies-hollywood.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/media/trump-tariffs-movies-hollywood.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/media/trump-tariffs-movies-hollywood.html",
+            "@rel": "standout"
+          },
+          "description": "\u201cReturning more production to the United States will require a national approach and broad-based policy solutions,\u201d the groups said in a letter  to the White House.",
+          "dc:creator": "Nicole Sperling",
+          "pubDate": "Mon, 12 May 2025 21:20:46 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Tax Credits, Deductions and Exemptions"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "California"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Motion Picture Assn of America"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Television"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12biz-mpa-tariffs-jbtw/12biz-mpa-tariffs-jbtw-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Valerie Macon/Agence France-Presse \u2014 Getty Images",
+          "media:description": "The Motion Picture Association asked for a range of tax breaks in a letter it and several other groups sent to President Trump."
+        },
+        {
+          "title": "Tariff Truce With China Demonstrates the Limits of Trump\u2019s Aggression",
+          "link": "https://www.nytimes.com/2025/05/12/business/economy/trump-trade-china-tariffs.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/economy/trump-trade-china-tariffs.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/economy/trump-trade-china-tariffs.html",
+            "@rel": "standout"
+          },
+          "description": "President Trump\u2019s triple-digit tariffs on Chinese products disrupted global trade \u2014 but haven\u2019t appeared to result in major concessions from Beijing.",
+          "dc:creator": "Ana Swanson and Alan Rappeport",
+          "pubDate": "Mon, 12 May 2025 22:38:40 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States International Relations"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Economic Conditions and Trends"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Bessent, Scott"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Xi Jinping"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            }
+          ],
+          "media:content": {
+            "@height": "1799",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12dc-trade-01-fpbj/12dc-trade-01-fpbj-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Doug Mills/The New York Times",
+          "media:description": "The tariffs on Chinese goods ultimately proved too painful to American businesses for President Trump to sustain."
+        },
+        {
+          "title": "Trump Administration Considers Large Chip Sale to Emirati A.I. Firm G42",
+          "link": "https://www.nytimes.com/2025/05/12/business/economy/trump-chip-sale-to-emirati-ai-firm-g42.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/economy/trump-chip-sale-to-emirati-ai-firm-g42.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/economy/trump-chip-sale-to-emirati-ai-firm-g42.html",
+            "@rel": "standout"
+          },
+          "description": "The firm, which the U.S. government scrutinized for its ties to China, is angling for hundreds of thousands of advanced artificial intelligence chips in a deal that could be finalized this week.",
+          "dc:creator": "Ana Swanson and Tripp Mickle",
+          "pubDate": "Mon, 12 May 2025 19:57:57 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Intelligence"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computer Chips"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States International Relations"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Regulation and Deregulation of Industry"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Group 42 (G42)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "NVIDIA Corporation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Commerce Department"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Microsoft Corp"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Altman, Samuel H"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "United Arab Emirates"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Saudi Arabia"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12dc-g42-chips-blvt/12dc-g42-chips-blvt-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Haiyun Jiang for The New York Times",
+          "media:description": "President Trump\u2019s artificial intelligence czar, David Sacks, right, has been negotiating a deal that could send U.S.-designed A.I. chips to an Emirati company."
+        },
+        {
+          "title": "Fox to Launch New Streaming Service, Fox One, This Fall",
+          "link": "https://www.nytimes.com/2025/05/12/business/media/fox-streaming-fox-one.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/media/fox-streaming-fox-one.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/media/fox-streaming-fox-one.html",
+            "@rel": "standout"
+          },
+          "description": "The new service will combine the company\u2019s TV shows, cable channels and broadcast network, including National Football League games.",
+          "dc:creator": "Benjamin Mullin",
+          "pubDate": "Mon, 12 May 2025 19:31:21 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Television"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Video Recordings, Downloads and Streaming"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "News and News Media"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Company Reports"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Fox Corporation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Tubi Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Murdoch, Lachlan"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12biz-fox-one-czjm/12biz-fox-one-czjm-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Hiroko Masuike/The New York Times",
+          "media:description": "The Fox Nation streaming service will continue to exist as a stand-alone product within Fox Corporation, but Fox One subscribers will be able to bundle their subscriptions with Fox Nation."
+        },
+        {
+          "title": "Trump Family Bitcoin Company Announces Plan to Go Public",
+          "link": "https://www.nytimes.com/2025/05/12/business/trump-american-bitcoin-crypto.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/trump-american-bitcoin-crypto.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/trump-american-bitcoin-crypto.html",
+            "@rel": "standout"
+          },
+          "description": "American Bitcoin, a cryptocurrency firm co-founded by Eric Trump, said it was merging with a company traded on the Nasdaq, the latest expansion of the family\u2019s investments in crypto.",
+          "dc:creator": "David Yaffe-Bellany and Kenneth P. Vogel",
+          "pubDate": "Mon, 12 May 2025 18:56:48 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Bitcoin (Currency)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "American Bitcoin Corp"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "World Liberty Financial"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J Jr"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Eric F (1984- )"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12dc-trump-bitcoin-gqck/12dc-trump-bitcoin-gqck-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Tamir Kalifa for The New York Times",
+          "media:description": "An attendee at a Bitcoin conference in Abu Dhabi, United Arab Emirates, last year."
+        },
+        {
+          "title": "Fed Official Still Bracing for Economic Slowdown Despite China Tariff Pause",
+          "link": "https://www.nytimes.com/2025/05/12/business/fed-economy-stagflation-trump-tariffs.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/fed-economy-stagflation-trump-tariffs.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/fed-economy-stagflation-trump-tariffs.html",
+            "@rel": "standout"
+          },
+          "description": "Austan D. Goolsbee, president of the Chicago Fed, said there was still a risk of higher consumer prices and slower growth amid elevated uncertainty about the White House\u2019s trade policy.",
+          "dc:creator": "Colby Smith",
+          "pubDate": "Mon, 12 May 2025 18:39:20 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Banking and Financial Institutions"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Federal Reserve Bank of Chicago"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Federal Reserve System"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Goolsbee, Austan D"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12dc-fed-tariffs-zkpf/12dc-fed-tariffs-zkpf-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Mark Abramson for The New York Times",
+          "media:description": "Tariffs and the uncertainty about President Trump\u2019s trade policies could cause higher prices and slower growth, a Federal Reserve official warned on Monday."
+        },
+        {
+          "title": "Newark Airport Air Traffic Staffing Shortage Forces Delays",
+          "link": "https://www.nytimes.com/2025/05/12/business/newark-airport-delays-staffing-shortage.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/newark-airport-delays-staffing-shortage.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/newark-airport-delays-staffing-shortage.html",
+            "@rel": "standout"
+          },
+          "description": "The shortage on Monday forced the F.A.A. to delay flights to the busy airport for up to nearly seven hours, the latest problem to plague the airport.",
+          "dc:creator": "Niraj Chokshi, Kate Kelly and Emily Steel",
+          "pubDate": "Tue, 13 May 2025 01:45:00 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Air Traffic Control"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Airlines and Airplanes"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Delays (Transportation)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Airports"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Newark Liberty International Airport (NJ)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Federal Aviation Administration"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12biz-newark-staffing-mlkp/12biz-newark-staffing-mlkp-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Dakota Santiago for The New York Times",
+          "media:description": "Newark Liberty International Airport has experienced a series of major delays in the past several days."
+        },
+        {
+          "title": "Trump Signs Executive Order Asking Companies to Lower Drug Prices",
+          "link": "https://www.nytimes.com/2025/05/12/health/trump-drug-prices.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/health/trump-drug-prices.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/health/trump-drug-prices.html",
+            "@rel": "standout"
+          },
+          "description": "The president has long complained that the United States pays more for medicines than other wealthy countries. But he offered no clear legal authority to mandate lower prices.",
+          "dc:creator": "Margot Sanger-Katz and Rebecca Robbins",
+          "pubDate": "Mon, 12 May 2025 20:41:33 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Drugs (Pharmaceuticals)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Health Insurance and Managed Care"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Federal Budget (US)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Executive Orders and Memorandums"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Regulation and Deregulation of Industry"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12hs-drug-prices-kgcq/12hs-drug-prices-kgcq-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Eric Lee/The New York Times",
+          "media:description": "At an event Monday for his executive order, President Trump directed his ire toward European governments that have negotiated lower prices."
+        },
+        {
+          "title": "Avelo Airlines Faces Backlash for Aiding Trump\u2019s Deportation Campaign",
+          "link": "https://www.nytimes.com/2025/05/12/business/trump-deportation-flights-avelo-airlines.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/trump-deportation-flights-avelo-airlines.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/trump-deportation-flights-avelo-airlines.html",
+            "@rel": "standout"
+          },
+          "description": "The company, which serves airports in liberal cities on the coasts, has agreed to operate chartered flights for Immigration and Customs Enforcement.",
+          "dc:creator": "Niraj Chokshi",
+          "pubDate": "Tue, 13 May 2025 13:19:43 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Airlines and Airplanes"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Deportation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Demonstrations, Protests and Riots"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Immigration and Emigration"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Illegal Immigration"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Airports"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Flight Attendants"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Start-ups"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Avelo Airlines"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Assn of Flight Attendants"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Immigration and Customs Enforcement (US)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Connecticut"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Mesa (Ariz)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "New Haven (Conn)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Delaware"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12avelo-deport-mjzf/12avelo-deport-mjzf-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Christopher Capozziello for The New York Times",
+          "media:description": "The money that Avelo Airlines stands to make from deportation flights is too good to pass up, the company\u2019s chief executive said last month in an internal email."
+        },
+        {
+          "title": "Robert Shapiro, Who Made NutraSweet a Household Name, Dies at 86",
+          "link": "https://www.nytimes.com/2025/05/12/business/robert-shapiro-dead.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/robert-shapiro-dead.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/robert-shapiro-dead.html",
+            "@rel": "standout"
+          },
+          "description": "His promotion of the sugar substitute was a success. But later, as head of Monsanto, he faced blowback after the company rushed into genetically altered products.",
+          "dc:creator": "Sam Roberts",
+          "pubDate": "Mon, 12 May 2025 15:15:32 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Shapiro, Robert B"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Deaths (Obituaries)"
+            },
+            {
+              "@domain": "",
+              "#text": "NutraSweet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Aspartame"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Sweeteners"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Genetic Engineering"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Diet and Nutrition"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Biotechnology and Bioengineering"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Monsanto Company"
+            },
+            {
+              "@domain": ""
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Theranos Inc"
+            }
+          ],
+          "media:content": {
+            "@height": "928",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/10/multimedia/10Shapiro--01-bhtm/10Shapiro--01-bhtm-mediumSquareAt3X.jpg",
+            "@width": "928"
+          },
+          "media:credit": "Bill Stover for The New York Times",
+          "media:description": "Robert B. Shapiro in his office at Monsanto in 1999. He was named the company\u2019s president in 1993 and chief executive in 1995, as Monsanto transitioned from mostly manufacturing chemicals to making drugs and genetically modified seeds, crops, fertilizer and food ingredients."
+        },
+        {
+          "title": "Inside the U.S.-China Trade Cease-Fire",
+          "link": "https://www.nytimes.com/2025/05/12/business/dealbook/us-china-trade-agreement.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/dealbook/us-china-trade-agreement.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/dealbook/us-china-trade-agreement.html",
+            "@rel": "standout"
+          },
+          "description": "Global markets are rallying on optimism over Washington and Beijing reaching a major, if temporary, d\u00e9tente in their tariff fight.",
+          "dc:creator": "Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Edmund Lee",
+          "pubDate": "Mon, 12 May 2025 11:42:03 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Bessent, Scott"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Geneva (Switzerland)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Protectionism (Trade)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Apple Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "NVIDIA Corporation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Amazon.com Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Inflation (Economics)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Greer, Jamieson L"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Federal Reserve System"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12db-bessent-hvbt/12db-bessent-hvbt-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Jean-Christophe Bott/Keystone, via Associated Press",
+          "media:description": "Treasury Secretary Scott Bessent this morning announced a major, though temporary, breakthrough in trade talks with China."
+        },
+        {
+          "title": "For Trump, It\u2019s a New Era of Deal-Making With Tech\u2019s Most-Coveted Commodity",
+          "link": "https://www.nytimes.com/2025/05/12/business/economy/trump-middle-east-trip-semiconductor-deals.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/economy/trump-middle-east-trip-semiconductor-deals.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/economy/trump-middle-east-trip-semiconductor-deals.html",
+            "@rel": "standout"
+          },
+          "description": "As the president heads to the Middle East, America\u2019s dominance over A.I. chips has become a powerful source of leverage for the president.",
+          "dc:creator": "Ana Swanson and Tripp Mickle",
+          "pubDate": "Mon, 12 May 2025 12:20:31 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Intelligence"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computer Chips"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Data Centers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Stocks and Bonds"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12dc-trump-chips1-qmfp/12dc-trump-chips1-qmfp-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Eric Lee/The New York Times",
+          "media:description": "President Trump is touring the Middle East this week where he has strong business and financial ties. His administration appears to be interested in using artificial intelligence chips to secure strategic bonds in the region."
+        },
+        {
+          "title": "U.S. and China Reach Deal to Temporarily Slash Tariffs",
+          "link": "https://www.nytimes.com/2025/05/12/business/china-us-tariffs.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/china-us-tariffs.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/china-us-tariffs.html",
+            "@rel": "standout"
+          },
+          "description": "The White House backed off from the steepest levies, as the costs of an all-out trade war with China threatened global economic growth.",
+          "dc:creator": "Daisuke Wakabayashi, Amy Chang Chien and Alan Rappeport",
+          "pubDate": "Mon, 12 May 2025 20:34:56 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Xi Jinping"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Greer, Jamieson L"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "United States"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12Biz-China-US-kpqb/12Biz-China-US-kpqb-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Fabrice Coffrini/Agence France-Presse \u2014 Getty Images",
+          "media:description": "The U.S. Treasury secretary, Scott Bessent, right, and the U.S. trade representative, Jamieson Greer, in Geneva on Monday."
+        },
+        {
+          "title": "Can the U.K.\u2019s Military Spending Push Revive Its Small Towns, Too?",
+          "link": "https://www.nytimes.com/2025/05/12/business/uk-military-spending-economy.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/uk-military-spending-economy.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/uk-military-spending-economy.html",
+            "@rel": "standout"
+          },
+          "description": "Britain is spending billions of pounds more on defense, but wants the money to go beyond nuclear submarines to improve local jobs and prosperity. Barrow-in-Furness may be the model.",
+          "dc:creator": "Eshe Nelson",
+          "pubDate": "Mon, 12 May 2025 17:34:50 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Defense and Military Forces"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Labor and Jobs"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Public-Private Sector Cooperation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Small Business"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Shopping and Retail"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "BAE Systems PLC"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Barrow-in-Furness (England)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Great Britain"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/11/multimedia/11biz-uk-defense-04-lhwv/11biz-uk-defense-04-lhwv-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Andrew Testa for The New York Times",
+          "media:description": "The BAE factory, in the distance, looms over Barrow-in-Furness, England. Barrow has built Royal Navy vessels since the 1870s. Today, BAE employs about 14,500 people, offering the town\u2019s most sought-after jobs."
+        },
+        {
+          "title": "US-China Tariff Pause Spurs Stock Market Surge",
+          "link": "https://www.nytimes.com/2025/05/11/business/us-china-trade-stock-market.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/11/business/us-china-trade-stock-market.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/11/business/us-china-trade-stock-market.html",
+            "@rel": "standout"
+          },
+          "description": "The S&P 500 logged its biggest gain in over a month after American and Chinese officials signaled a de-escalation in the trade war between the world\u2019s two largest economies.",
+          "dc:creator": "River Akira Davis and Jason Karaian",
+          "pubDate": "Mon, 12 May 2025 20:04:32 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Stocks and Bonds"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "United States"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States International Relations"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12Biz-Stocks-gmbh/12Biz-Stocks-gmbh-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Martial Trezzini/Handout, Via Reuters",
+          "media:description": "Treasury Secretary Scott Bessent, left, and Trade Representative Jamieson Greer led the U.S. delegation to the talks in Geneva. Mr. Bessent said there had been \u201csubstantial progress.\u201d"
+        },
+        {
+          "title": "Trump Plan Would Tie Some Drug Prices to What Peer Nations Pay",
+          "link": "https://www.nytimes.com/2025/05/11/health/drug-prices-executive-order.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/11/health/drug-prices-executive-order.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/11/health/drug-prices-executive-order.html",
+            "@rel": "standout"
+          },
+          "description": "The president announced an executive order aimed at lowering U.S. drug costs, revisiting an idea that was blocked in court during his first term.",
+          "dc:creator": "Rebecca Robbins and Margot Sanger-Katz",
+          "pubDate": "Mon, 12 May 2025 17:20:32 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Drugs (Pharmaceuticals)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Health Insurance and Managed Care"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Executive Orders and Memorandums"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/multimedia/09hs-drug-prices-02-hmfl/09hs-drug-prices-02-hmfl-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Eric Lee/The New York Times",
+          "media:description": "President Trump, flanked by Jay Bhattacharya, director of the National Institutes of Health, and Robert F. Kennedy Jr., the Health and Human Services secretary, during another executive order signing ceremony last week."
+        },
+        {
+          "title": "Why Patients Are Being Forced to Switch to a 2nd-Choice Obesity Drug",
+          "link": "https://www.nytimes.com/2025/05/11/health/zepbound-wegovy-weight-loss-drugs.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/11/health/zepbound-wegovy-weight-loss-drugs.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/11/health/zepbound-wegovy-weight-loss-drugs.html",
+            "@rel": "standout"
+          },
+          "description": "CVS Caremark decided to stop offering Zepbound in favor of Wegovy for weight loss. It\u2019s the latest example of limits imposed by insurance that disrupt treatments for patients.",
+          "dc:creator": "Rebecca Robbins and Reed Abelson",
+          "pubDate": "Mon, 12 May 2025 00:08:26 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "GLP-1 RAs (Drug)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Drugs (Pharmaceuticals)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Health Insurance and Managed Care"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Weight"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "CVS Caremark Corporation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Eli Lilly and Company"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Novo Nordisk A/S"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Obesity"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Research"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Clinical Trials"
+            }
+          ],
+          "media:content": {
+            "@height": "1671",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/11/multimedia/11HS-PBMS-OBESITY-02-zlbf/11HS-PBMS-OBESITY-02-zlbf-mediumSquareAt3X.jpg",
+            "@width": "1671"
+          },
+          "media:credit": "Christopher Capozziello for The New York Times",
+          "media:description": "An injection pen for Zepbound, which Caremark intends to stop offering in July."
+        },
+        {
+          "title": "130,000 Igloo Coolers Recalled After Fingertip Amputations From Handle",
+          "link": "https://www.nytimes.com/2025/05/11/business/igloo-coolers-recall.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/11/business/igloo-coolers-recall.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/11/business/igloo-coolers-recall.html",
+            "@rel": "standout"
+          },
+          "description": "The warning expands a recall of more than one million Igloo coolers in February, which was prompted by reports of fingertip injuries from the tow handle.",
+          "dc:creator": "Sara Ruberg",
+          "pubDate": "Sun, 11 May 2025 13:56:51 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Recalls and Bans of Products"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Consumer Protection"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Amputation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Consumer Product Safety Commission"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Igloo Products Corp"
+            },
+            {
+              "@domain": "",
+              "#text": "Coolers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Fingers"
+            }
+          ],
+          "media:content": {
+            "@height": "1799",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/11/business/11xp-coolers1/11xp-coolers1-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "via United States Consumer Product Safety Commission",
+          "media:description": "The tow handle of the Igloo cooler has pinched customers\u2019 fingertips and caused severe injuries, a federal safety agency said."
+        },
+        {
+          "title": "A Shipping Change Might Help Small Businesses if Not for Trump\u2019s Trade Wars",
+          "link": "https://www.nytimes.com/2025/05/11/business/trump-trade-war-shipping-small-businesses.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/11/business/trump-trade-war-shipping-small-businesses.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/11/business/trump-trade-war-shipping-small-businesses.html",
+            "@rel": "standout"
+          },
+          "description": "Companies squeezed by Shein and Temu are welcoming the end of a shipping rule that bolstered the Chinese e-commerce giants. But broader tariff concerns are outweighing any optimism.",
+          "dc:creator": "Danielle Kaye",
+          "pubDate": "Mon, 12 May 2025 16:01:38 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Small Business"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Shopping and Retail"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "E-Commerce"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Shein (Fashion Label)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Temu (Website)"
+            }
+          ],
+          "media:content": {
+            "@height": "1439",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/00biz-china-shipping-48870-cover/00biz-china-shipping-48870-cover-mediumSquareAt3X-v2.jpg",
+            "@width": "1440"
+          },
+          "media:credit": "Mohamed Sadek for The New York Times"
+        },
+        {
+          "title": "The Tech Guys Are Fighting. Literally.",
+          "link": "https://www.nytimes.com/2025/05/11/technology/tech-crypto-martial-arts.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/11/technology/tech-crypto-martial-arts.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/11/technology/tech-crypto-martial-arts.html",
+            "@rel": "standout"
+          },
+          "description": "Not content to battle it out in the boardroom, crypto bros, tech executives and start-up founders have embraced an old-fashioned version of masculinity.",
+          "dc:creator": "David Yaffe-Bellany and Matthew DeFeo",
+          "pubDate": "Sun, 11 May 2025 09:00:19 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Virtual Currency"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Men and Boys"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Social Media"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "High Net Worth Individuals"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Content Type: Personal Profile"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Beatdapp Software Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Ethereum Foundation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Meta Platforms Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Ultimate Fighting Championship"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "X (Formerly Twitter)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Faludi, Susan"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Musk, Elon"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Zuckerberg, Mark E"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Colorado"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/11/multimedia/00crypto-fight-tqgb/00crypto-fight-tqgb-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:description": "Andrew Batey, a venture capitalist, went to the annual cryptocurrency conference in Denver not to network with fellow crypto enthusiasts but to fight one of them."
+        },
+        {
+          "title": "U.S. Says \u2018Substantial Progress\u2019 Made in Trade Talks With China",
+          "link": "https://www.nytimes.com/2025/05/11/business/us-china-tariffs.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/11/business/us-china-tariffs.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/11/business/us-china-tariffs.html",
+            "@rel": "standout"
+          },
+          "description": "Treasury Secretary Scott Bessent said the details would be announced on Monday after two days of negotiations in Geneva.",
+          "dc:creator": "Alan Rappeport and Ana Swanson",
+          "pubDate": "Sun, 11 May 2025 19:41:32 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Greer, Jamieson L"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "United States"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States International Relations"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Bessent, Scott"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "He Lifeng (1955- )"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/11/multimedia/11dc-china-talks-pblv/11dc-china-talks-pblv-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Denis Balibouse/Reuters",
+          "media:description": "Members of the Chinese delegation at the trade talks in Geneva."
+        },
+        {
+          "title": "Why America\u2019s \u2018Beautiful Beef\u2019 Is a Trade War Sore Point for Europe",
+          "link": "https://www.nytimes.com/2025/05/11/world/europe/tariffs-farm-products-beef-meat-european-union-trump.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/11/world/europe/tariffs-farm-products-beef-meat-european-union-trump.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/11/world/europe/tariffs-farm-products-beef-meat-european-union-trump.html",
+            "@rel": "standout"
+          },
+          "description": "European officials call food safety standards a \u201cred line,\u201d as Trump administration officials criticize rules that keep American beef and other meats off grocery shelves.",
+          "dc:creator": "Jeanna Smialek",
+          "pubDate": "Sun, 11 May 2025 16:43:14 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Agriculture and Farming"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Beef"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Food"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Belgium"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Europe"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Regulation and Deregulation of Industry"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Food Contamination and Poisoning"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States International Relations"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/07/multimedia/00int-tariffs-europe-food-fight-01-fbtm/00int-tariffs-europe-food-fight-01-fbtm-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Jim Huylebroek for The New York Times",
+          "media:description": "Hendrik Dierendonck, right, and one of his chefs, Timon Michiels, at work at his butchery and restaurant in Saint-Idesbald, Belgium, last month."
+        },
+        {
+          "title": "Elizabeth Holmes\u2019s Partner Has a New Blood-Testing Start-Up",
+          "link": "https://www.nytimes.com/2025/05/10/business/elizabeth-holmes-partner-blood-testing-startup.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/business/elizabeth-holmes-partner-blood-testing-startup.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/business/elizabeth-holmes-partner-blood-testing-startup.html",
+            "@rel": "standout"
+          },
+          "description": "Billy Evans has two children with the Theranos founder, who is in prison for fraud. He\u2019s now trying to raise money for a testing company that promises \u201chuman health optimization.\u201d",
+          "dc:creator": "Rob Copeland",
+          "pubDate": "Sat, 10 May 2025 15:16:06 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Evans, William \"Billy\""
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Start-ups"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Haemanthus Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Tests (Medical)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Venture Capital"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Blood"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Veterinary Medicine"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Private Equity"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Frauds and Swindling"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Inventions and Patents"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Theranos Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Holmes, Elizabeth (1984- )"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/multimedia/00biz-blood-lede-ptgc/00biz-blood-lede-ptgc-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Philip Cheung for The New York Times",
+          "media:description": "Billy Evans with his partner, Elizabeth Holmes, at their home in 2023."
+        },
+        {
+          "title": "\u2018Don\u2019t Need a Deal\u2019: Top Trump Economic Adviser Is All In on His China Hardball",
+          "link": "https://www.nytimes.com/2025/05/10/business/dealbook/stephen-miran-interview.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/business/dealbook/stephen-miran-interview.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/business/dealbook/stephen-miran-interview.html",
+            "@rel": "standout"
+          },
+          "description": "In a wide-ranging interview, Stephen Miran, the chair of President Trump\u2019s Council of Economic Advisers, said, \u201cVolatility doesn\u2019t necessarily mean anything greater for the long term.\u201d",
+          "dc:creator": "Talmon Joseph Smith",
+          "pubDate": "Sat, 10 May 2025 15:33:33 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Miran, Stephen"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/10/business/10DB-Miran/10DB-Miran-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images",
+          "media:description": "Stephen Miran is President Trump\u2019s top economic adviser."
+        },
+        {
+          "title": "Worried About the Economy Amid Trump\u2019s Tariffs? Building an Emergency Fund Can Help.",
+          "link": "https://www.nytimes.com/2025/05/10/your-money/trump-tariffs-economy-savings.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/your-money/trump-tariffs-economy-savings.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/your-money/trump-tariffs-economy-savings.html",
+            "@rel": "standout"
+          },
+          "description": "One bit of advice: Putting aside $2,000 to cover surprise expenses, like a car or home repair, can help you avoid credit cards. Experts have more tips on saving.",
+          "dc:creator": "Ann Carrns",
+          "pubDate": "Sat, 10 May 2025 09:01:22 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Personal Finances"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Banking and Financial Institutions"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Content Type: Service"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Savings"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Asset Allocation (Personal Finances)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Stocks and Bonds"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "T Rowe Price Group Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Vanguard Group Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Sethi, Ramit"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/business/09adviser/09adviser-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Thomas Fuchs"
+        },
+        {
+          "title": "How Much Do People Pay for Newsletters Like Substack? It Can Be Surprising.",
+          "link": "https://www.nytimes.com/2025/05/10/business/substack-newsletter-subscription-costs.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/business/substack-newsletter-subscription-costs.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/business/substack-newsletter-subscription-costs.html",
+            "@rel": "standout"
+          },
+          "description": "More people are spending money on newsletters from their favorite writers. They\u2019re also having trouble keeping track of how many they subscribe to.",
+          "dc:creator": "Logan Sachon",
+          "pubDate": "Sat, 10 May 2025 09:01:16 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Personal Finances"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Newsletters"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Substack Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Budgets and Budgeting"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/10/business/00newsletters/00newsletters-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Andrea Chronopoulos"
+        },
+        {
+          "title": "\u2018Sinners\u2019 Box Office Success Could Put It in Hollywood\u2019s Horror Hall of Fame",
+          "link": "https://www.nytimes.com/2025/05/10/business/media/sinners-box-office-horror.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/business/media/sinners-box-office-horror.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/business/media/sinners-box-office-horror.html",
+            "@rel": "standout"
+          },
+          "description": "The horror movie from Ryan Coogler is on a pace to collect at least $330 million in worldwide ticket sales, a level reached by few original films in the genre.",
+          "dc:creator": "Brooks Barnes",
+          "pubDate": "Sat, 10 May 2025 09:00:43 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Movies"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Box Office Sales"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Warner Brothers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Coogler, Ryan"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_ttl",
+              "#text": "Sinners (Movie)"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/multimedia/SINNERS-1-lqmj/SINNERS-1-lqmj-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Eli Ad\u00e9/Warner Bros. Pictures",
+          "media:description": "Michael B. Jordan in \u201cSinners,\u201d which could become the biggest original horror movie since \u201cA Quiet Place\u201d in 2018."
+        },
+        {
+          "title": "Remarrying in Retirement Can Mean Tricky Money Talks",
+          "link": "https://www.nytimes.com/2025/05/10/business/retirement-remarrying-money-widows.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/business/retirement-remarrying-money-widows.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/business/retirement-remarrying-money-widows.html",
+            "@rel": "standout"
+          },
+          "description": "People over 65 who remarry after a death or divorce can face thorny financial questions \u2014 especially when it comes to adult children and inheritances.",
+          "dc:creator": "Martha C. White",
+          "pubDate": "Mon, 12 May 2025 14:11:04 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Wills and Estates"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Personal Finances"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Content Type: Service"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Marriages"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Divorce, Separations and Annulments"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Elderly"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Age, Chronological"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Pensions and Retirement Plans"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Women and Girls"
+            },
+            {
+              "@domain": "",
+              "#text": "Estate Planning"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/11/multimedia/10biz-retiring-remarry-gzjh/10biz-retiring-remarry-gzjh-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Benjamin Cleeton for The New York Times",
+          "media:description": "Elaina Clapper had been divorced for about 40 years when she remarried, to her husband David. \u201cWe just kind of talked about what we were both bringing to the marriage financially,\u201d she said."
+        },
+        {
+          "title": "US and China Meet for First Time Since Trump Imposed Tariffs",
+          "link": "https://www.nytimes.com/2025/05/10/business/us-china-talks-trump-tariffs.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/business/us-china-talks-trump-tariffs.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/business/us-china-talks-trump-tariffs.html",
+            "@rel": "standout"
+          },
+          "description": "The outcome of the trade negotiations, which will continue on Sunday, could determine the trajectory of the global economy.",
+          "dc:creator": "Alan Rappeport, Ana Swanson and Alexandra Stevenson",
+          "pubDate": "Sat, 10 May 2025 23:42:06 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States International Relations"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Bessent, Scott"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Treasury Department"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Fentanyl"
+            }
+          ],
+          "media:content": {
+            "@height": "1362",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/10/multimedia/10dc-uschina-talks-01-hjmz/10dc-uschina-talks-01-hjmz-mediumSquareAt3X.jpg",
+            "@width": "1362"
+          },
+          "media:credit": "Eric Lee/The New York Times",
+          "media:description": "Treasury Secretary Scott Bessent is leading the American side in the negotiations with China, which began Saturday and continue Sunday."
+        },
+        {
+          "title": "With U.S. Trade Deal, UK Steel Industry Feels Some Much Needed Relief",
+          "link": "https://www.nytimes.com/2025/05/10/business/trump-uk-us-trade-steel.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/business/trump-uk-us-trade-steel.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/business/trump-uk-us-trade-steel.html",
+            "@rel": "standout"
+          },
+          "description": "The agreement to lift the 25 percent duty on steel exported to the United States provided some relief for struggling businesses, but uncertainties for the industry remain.",
+          "dc:creator": "Stanley Reed",
+          "pubDate": "Sat, 10 May 2025 04:00:14 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Steel and Iron"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Sheffield (England)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Great Britain"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "United States"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Factories and Manufacturing"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/multimedia/09biz-uk-steel-01-lbvf/09biz-uk-steel-01-lbvf-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Owen Richards for The New York Times",
+          "media:description": "Marcegaglia\u2019s cavernous plant in Sheffield, England."
+        },
+        {
+          "title": "Chinese Factories Are Moving Manufacturing to Vietnam to Escape Trump\u2019s Tariffs",
+          "link": "https://www.nytimes.com/2025/05/10/business/trump-tariffs-vietnam-china.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/business/trump-tariffs-vietnam-china.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/business/trump-tariffs-vietnam-china.html",
+            "@rel": "standout"
+          },
+          "description": "A movement of manufacturing to Vietnam that began in President Trump\u2019s first term is accelerating as sky-high U.S. tariffs block Chinese exports.",
+          "dc:creator": "Alexandra Stevenson",
+          "pubDate": "Sat, 10 May 2025 04:00:06 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Vietnam"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Factories and Manufacturing"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Ho Chi Minh City (Vietnam)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/07/multimedia/00biz-vietnam-china-01-tgjf/00biz-vietnam-china-01-tgjf-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Linh Pham for The New York Times",
+          "media:description": "As orders become impossible to fulfill in China with tariffs of more than 145 percent, Chinese companies are trying to move manufacturing to Vietnam."
+        },
+        {
+          "title": "U.S. Starts Investigation Into Imported Planes and Parts",
+          "link": "https://www.nytimes.com/2025/05/09/business/trump-tariffs-planes-aviation.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/business/trump-tariffs-planes-aviation.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/business/trump-tariffs-planes-aviation.html",
+            "@rel": "standout"
+          },
+          "description": "The Trump administration could use the investigation to impose new tariffs on imported planes, jet engines and other aerospace parts.",
+          "dc:creator": "Niraj Chokshi",
+          "pubDate": "Fri, 09 May 2025 22:56:23 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Airlines and Airplanes"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Engines"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Factories and Manufacturing"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Lutnick, Howard W"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Commerce Department"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Boeing Company"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Airbus Industrie"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Aerospace Industries Assn"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Europe"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "China"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "United States"
+            }
+          ],
+          "media:content": {
+            "@height": "1802",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/multimedia/09biz-tariffs-planes-fgcw/09biz-tariffs-planes-fgcw-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Lindsey Wasson for The New York Times",
+          "media:description": "A Boeing factory in Everett, Wash. An investigation by the Trump administration into imports of jet engines and other aviation parts could be the first step in the imposition of tariffs on those products."
+        },
+        {
+          "title": "Robert A.G. Monks, Crusader Against \u2018Imperial\u2019 C.E.O.s, Dies at 91",
+          "link": "https://www.nytimes.com/2025/05/09/business/robert-ag-monks-dead.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/business/robert-ag-monks-dead.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/business/robert-ag-monks-dead.html",
+            "@rel": "standout"
+          },
+          "description": "A descendant of American wealth, he used his success in business to push for social responsibility in corporate leadership and encouraged shareholders to push back.",
+          "dc:creator": "James R. Hagerty",
+          "pubDate": "Fri, 09 May 2025 23:50:45 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Monks, Robert A G"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Deaths (Obituaries)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Shareholder Rights and Activism"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Corporations"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Institutional Shareholder Services Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Maine"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/10/multimedia/08Monks--fvmp-print1/08Monks--fvmp-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Craig Dilger for The New York Times",
+          "media:description": "Robert A.G. Monks, at his home in Cape Elizabeth, Maine, in May 2013. Partly as a result of his efforts and those of like-minded activists, more companies separated the jobs of chairman and chief executive, which had often been held by the same person."
+        }
+      ]
+    }
+  }
+}

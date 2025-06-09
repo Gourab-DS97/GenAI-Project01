@@ -1,0 +1,1698 @@
+{
+  "rss": {
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "@xmlns:media": "http://search.yahoo.com/mrss/",
+    "@xmlns:atom": "http://www.w3.org/2005/Atom",
+    "@xmlns:nyt": "http://www.nytimes.com/namespaces/rss/2.0",
+    "@version": "2.0",
+    "channel": {
+      "title": "NYT > Technology",
+      "link": "https://www.nytimes.com/section/technology",
+      "atom:link": {
+        "@href": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "@rel": "self",
+        "@type": "application/rss+xml"
+      },
+      "description": null,
+      "language": "en-us",
+      "copyright": "Copyright 2025 The New York Times Company",
+      "lastBuildDate": "Tue, 13 May 2025 15:38:19 +0000",
+      "pubDate": "Tue, 13 May 2025 15:22:59 +0000",
+      "image": {
+        "title": "NYT > Technology",
+        "url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
+        "link": "https://www.nytimes.com/section/technology"
+      },
+      "item": [
+        {
+          "title": "Elon Musk\u2019s Boring Company Is in Talks With Government Over Amtrak Project",
+          "link": "https://www.nytimes.com/2025/05/12/technology/elon-musk-boring-company-amtrak.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/technology/elon-musk-boring-company-amtrak.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/technology/elon-musk-boring-company-amtrak.html",
+            "@rel": "standout"
+          },
+          "description": "The Federal Railroad Administration has brought in the tunneling company to see if it could help with a multibillion-dollar rail project.",
+          "dc:creator": "Ryan Mac and Mark Walker",
+          "pubDate": "Tue, 13 May 2025 00:45:51 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Bridges and Tunnels"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Conflicts of Interest"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Railroads"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Transportation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Infrastructure (Public Works)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Amtrak"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Boring Company"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Federal Railroad Administration"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Government Efficiency Department (US)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Transportation Department (US)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Davis, Steve (Construction Executive)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Duffy, Sean P"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Musk, Elon"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/business/00BORING-TUNNEL/00BORING-TUNNEL-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Jordan Vonderhaar/Bloomberg",
+          "media:description": "The Boring Company facility in Bastrop, Texas. The Federal Railroad Administration has brought in the tunneling firm, founded by Elon Musk, to help with a multibillion-dollar Amtrak project."
+        },
+        {
+          "title": "For Trump, It\u2019s a New Era of Deal-Making With Tech\u2019s Most-Coveted Commodity",
+          "link": "https://www.nytimes.com/2025/05/12/business/economy/trump-middle-east-trip-semiconductor-deals.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/12/business/economy/trump-middle-east-trip-semiconductor-deals.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/12/business/economy/trump-middle-east-trip-semiconductor-deals.html",
+            "@rel": "standout"
+          },
+          "description": "As the president heads to the Middle East, America\u2019s dominance over A.I. chips has become a powerful source of leverage for the president.",
+          "dc:creator": "Ana Swanson and Tripp Mickle",
+          "pubDate": "Mon, 12 May 2025 12:20:31 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Intelligence"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computer Chips"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Data Centers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Stocks and Bonds"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12dc-trump-chips1-qmfp/12dc-trump-chips1-qmfp-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Eric Lee/The New York Times",
+          "media:description": "President Trump is touring the Middle East this week where he has strong business and financial ties. His administration appears to be interested in using artificial intelligence chips to secure strategic bonds in the region."
+        },
+        {
+          "title": "The Tech Guys Are Fighting. Literally.",
+          "link": "https://www.nytimes.com/2025/05/11/technology/tech-crypto-martial-arts.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/11/technology/tech-crypto-martial-arts.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/11/technology/tech-crypto-martial-arts.html",
+            "@rel": "standout"
+          },
+          "description": "Not content to battle it out in the boardroom, crypto bros, tech executives and start-up founders have embraced an old-fashioned version of masculinity.",
+          "dc:creator": "David Yaffe-Bellany and Matthew DeFeo",
+          "pubDate": "Sun, 11 May 2025 09:00:19 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Virtual Currency"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Men and Boys"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Social Media"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "High Net Worth Individuals"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Content Type: Personal Profile"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Beatdapp Software Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Ethereum Foundation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Meta Platforms Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Ultimate Fighting Championship"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "X (Formerly Twitter)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Faludi, Susan"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Musk, Elon"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Zuckerberg, Mark E"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Colorado"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/11/multimedia/00crypto-fight-tqgb/00crypto-fight-tqgb-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:description": "Andrew Batey, a venture capitalist, went to the annual cryptocurrency conference in Denver not to network with fellow crypto enthusiasts but to fight one of them."
+        },
+        {
+          "title": "Elon Musk\u2019s Use of X Mimics Hearst\u2019s and Ford\u2019s Manipulation of Media",
+          "link": "https://www.nytimes.com/2025/05/10/technology/elon-musk-x-ford-hearst.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/technology/elon-musk-x-ford-hearst.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/technology/elon-musk-x-ford-hearst.html",
+            "@rel": "standout"
+          },
+          "description": "The Tesla billionaire is using his social media site X to rant and accuse. The politics of rage rarely worked out well for earlier moguls.",
+          "dc:creator": "David Streitfeld",
+          "pubDate": "Sat, 10 May 2025 09:00:28 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Social Media"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Automobiles"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Electric and Hybrid Vehicles"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Media"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Newspapers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "High Net Worth Individuals"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Ford Motor Co"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Hearst Corp"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Tesla Motors Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "X (Formerly Twitter)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Ford, Henry"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Hearst, William Randolph"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Musk, Elon"
+            }
+          ],
+          "media:content": {
+            "@height": "1801",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/13/business/00musk-x-SUB/00musk-x-SUB-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Photo Illustration by Anthony Gerace; Photograph by Joe Skipper/Reuters"
+        },
+        {
+          "title": "Carvana, a Used Car Retailer, Thinks Tariffs Could be Good for Business",
+          "link": "https://www.nytimes.com/2025/05/13/business/economy/trump-tariffs-used-cars-carvana.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/business/economy/trump-tariffs-used-cars-carvana.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/business/economy/trump-tariffs-used-cars-carvana.html",
+            "@rel": "standout"
+          },
+          "description": "The chief executive of Carvana, which sells used cars online, said President Trump\u2019s tariffs could help his company by increasing demand for its vehicles.",
+          "dc:creator": "Neal E. Boudette",
+          "pubDate": "Tue, 13 May 2025 15:22:59 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Used Cars"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "E-Commerce"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Automobiles"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Coronavirus (2019-nCoV)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Carvana Co"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Economy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Garcia, Ernie"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/12/multimedia/12biz-carvana-tariffs-pqzk-copy/12biz-carvana-tariffs-pqzk-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Brandon Bell/Getty Images",
+          "media:description": "Carvana, an online seller of used cars, sees opportunity in high tariffs because it expects demand for used cars to climb."
+        },
+        {
+          "title": "Is Slate Auto\u2019s Electric Truck the Answer to Expensive Cars?",
+          "link": "https://www.nytimes.com/2025/05/13/business/slate-auto-electric-truck.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/business/slate-auto-electric-truck.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/business/slate-auto-electric-truck.html",
+            "@rel": "standout"
+          },
+          "description": "Slate Auto, a start-up backed by Jeff Bezos, plans to sell a small, spartan electric truck that comes with no paint, stereo or touch-screens.",
+          "dc:creator": "Lawrence Ulrich",
+          "pubDate": "Tue, 13 May 2025 15:22:43 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Automobiles"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Electric and Hybrid Vehicles"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "International Trade and World Market"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Start-ups"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Customs (Tariff)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Sports Utility Vehicles and Light Trucks"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Personal Finances"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Small Cars (Compact, Subcompact and Microcars)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Factories and Manufacturing"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Batteries"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Trucks and Trucking"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Slate Auto"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Indiana"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Detroit (Mich)"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/06/multimedia/00biz-affordable-cars-01-fpqg/00biz-affordable-cars-01-fpqg-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Emily Elconin for The New York Times",
+          "media:description": "A model truck at Slate Auto\u2019s design center in Troy, Mich. The company is backed by venture capital firms and Jeff Bezos, the Amazon founder."
+        },
+        {
+          "title": "How the Columbia River Treaty Got Tangled in Trump\u2019s Feud With Canada",
+          "link": "https://www.nytimes.com/2025/05/13/technology/trump-canada-columbia-river-treaty.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/13/technology/trump-canada-columbia-river-treaty.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/13/technology/trump-canada-columbia-river-treaty.html",
+            "@rel": "standout"
+          },
+          "description": "Negotiations over the Columbia River basin could affect the environment in Canada and electrical generation and flood control in the United States.",
+          "dc:creator": "Karen Weise",
+          "pubDate": "Tue, 13 May 2025 09:00:27 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Floods"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Treaties"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Water"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Rivers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Levees and Dams"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Hydroelectric Power"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Inslee, Jay"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Risch, James E"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Eisenhower, Dwight David"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "British Columbia (Canada)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Columbia River (Pacific Northwest)"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/04/25/business/BIZ-RIVER-TREATY-VIDEO-STILL/BIZ-RIVER-TREATY-VIDEO-STILL-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Michael Hanson for The New York Times",
+          "media:description": "Negotiations of a 60 year old treaty between Canada and United States regarding water rights in the Columbia River basin have stalled and could have large implications on flood control and hydroelectricity throughout the Pacific Northwest."
+        },
+        {
+          "title": "\u2018The Interview\u2019: Can Whitney Wolfe Herd Make Us Love Dating Apps Again?",
+          "link": "https://www.nytimes.com/2025/05/10/magazine/whitney-wolfe-herd-interview.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/10/magazine/whitney-wolfe-herd-interview.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/10/magazine/whitney-wolfe-herd-interview.html",
+            "@rel": "standout"
+          },
+          "description": "The Bumble CEO has returned to run the struggling company she founded, and says she has a plan for getting Gen Z back.",
+          "dc:creator": "Lulu Garcia-Navarro",
+          "pubDate": "Sat, 10 May 2025 09:15:05 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Herd, Whitney Wolfe"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Online Dating"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Mobile Applications"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Dating and Relationships"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Generation Z"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Intelligence"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Women and Girls"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Tinder (Mobile App)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Content Type: Personal Profile"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Bumble Trading Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            }
+          ],
+          "media:content": {
+            "@height": "1801",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/18/magazine/18mag-interview-wolfe-herd/18mag-interview-wolfe-herd-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Devin Oktar Yalkin for The New York Times"
+        },
+        {
+          "title": "Google Agrees to Pay $1.4 Billion to Settle 2 Privacy Lawsuits",
+          "link": "https://www.nytimes.com/2025/05/09/technology/google-texas-privacy-settlement.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/technology/google-texas-privacy-settlement.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/technology/google-texas-privacy-settlement.html",
+            "@rel": "standout"
+          },
+          "description": "The Texas attorney general brought the cases in 2022 under state laws.",
+          "dc:creator": "Tripp Mickle",
+          "pubDate": "Sat, 10 May 2025 01:39:16 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Google Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Privacy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Facial Recognition Software"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Search Engines"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Compensation for Damages (Law)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Suits and Litigation (Civil)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Paxton, Ken"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Attorneys General"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Texas"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Data-Mining and Database Marketing"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/multimedia/09biz-google-hgtk/09biz-google-hgtk-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Stephen Lam/Reuters",
+          "media:description": "A Google spokesman said, \u201cThis settles a raft of old claims, many of which have already been resolved elsewhere.\u201d"
+        },
+        {
+          "title": "Pinterest Agreed to Settle Christine Martinez Lawsuit for $34.7 Million",
+          "link": "https://www.nytimes.com/2025/05/09/technology/pinterest-settles-lawsuit-34-7-million.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/technology/pinterest-settles-lawsuit-34-7-million.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/technology/pinterest-settles-lawsuit-34-7-million.html",
+            "@rel": "standout"
+          },
+          "description": "Christine Martinez, who was a friend of two of Pinterest\u2019s three co-founders, sued the company in 2021 for breach of implied contract and other claims.",
+          "dc:creator": "Eli Tan",
+          "pubDate": "Fri, 09 May 2025 20:46:03 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Suits and Litigation (Civil)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Compensation for Damages (Law)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Social Media"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "E-Commerce"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Discrimination"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Mobile Applications"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Workplace Hazards and Violations"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Pinterest"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Brougher, Fancoise"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Martinez, Christine (Pinterest)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Silbermann, Ben"
+            }
+          ],
+          "media:content": {
+            "@height": "1799",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/multimedia/BIZ-PINTREST-1-tvfk/BIZ-PINTREST-1-tvfk-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Marissa Leshnov for The New York Times",
+          "media:description": "Christine Martinez, who sued Pinterest in 2021, said Friday that she was \u201cfrankly just relieved to be past it.\u201d"
+        },
+        {
+          "title": "Teenager Fatally Shot During \u2018Ding Dong Ditch\u2019 TikTok Prank",
+          "link": "https://www.nytimes.com/2025/05/09/us/virginia-teen-shot-ding-dong-ditch-tiktok-prank.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/us/virginia-teen-shot-ding-dong-ditch-tiktok-prank.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/us/virginia-teen-shot-ding-dong-ditch-tiktok-prank.html",
+            "@rel": "standout"
+          },
+          "description": "A Virginia man was charged with second-degree murder after the shooting. The teenager\u2019s friends told the authorities they had been filming a video of the prank for TikTok.",
+          "dc:creator": "Isabella Kwai",
+          "pubDate": "Sat, 10 May 2025 09:48:00 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Murders, Attempted Murders and Homicides"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Hoaxes and Pranks"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "TikTok (ByteDance)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Social Media"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Spotsylvania County (Va)"
+            }
+          ]
+        },
+        {
+          "title": "A Decade-Long Search for a Battery That Can End the Gasoline Era",
+          "link": "https://www.nytimes.com/2025/05/09/business/mercedes-factorial-solid-state-battery.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/business/mercedes-factorial-solid-state-battery.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/business/mercedes-factorial-solid-state-battery.html",
+            "@rel": "standout"
+          },
+          "description": "Can a small Massachusetts start-up perfect a battery that would make electric vehicles cheaper and more convenient than conventional cars?",
+          "dc:creator": "Jack Ewing",
+          "pubDate": "Tue, 13 May 2025 07:54:59 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Batteries"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Electric and Hybrid Vehicles"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Start-ups"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Factories and Manufacturing"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Research"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Engineering and Engineers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Content Type: Personal Profile"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Factorial Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Huang, Siyu"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Yu, Alex (Technology Executive)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Mercedes-Benz"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Keller, Uwe (Automotive Executive)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Kallenius, Ola"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "Stuttgart (Germany)"
+            }
+          ],
+          "media:content": {
+            "@height": "1799",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/02/multimedia/00mercedes-battery-01-zmwt/00mercedes-battery-01-zmwt-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Tony Luong for The New York Times",
+          "media:description": "A Factorial pilot factory in Methuen, Mass. To make money, a battery factory can\u2019t produce too many defective cells."
+        },
+        {
+          "title": "Bad Apple, the Rise of the A.I. Empire and Italian Brain Rot",
+          "link": "https://www.nytimes.com/2025/05/09/podcasts/hardfork-apple-app-store.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/podcasts/hardfork-apple-app-store.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/podcasts/hardfork-apple-app-store.html",
+            "@rel": "standout"
+          },
+          "description": "\u201cI have rarely read a judge who is so obviously angry at a tech company.\u201d",
+          "dc:creator": "Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Matt Collette, Chris Wood, Dan Powell, Elisheba Ittoop and Diane Wong",
+          "pubDate": "Fri, 09 May 2025 11:00:05 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Science and Technology"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Apple Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "iOS (Operating System)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Epic Games"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "OpenAI Labs"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Intelligence"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/podcasts/09hardfork-apple/09hardfork-apple-mediumSquareAt3X.png",
+            "@width": "1800"
+          },
+          "media:credit": "Illustration by The New York Times; photo: Getty Images"
+        },
+        {
+          "title": "U.S. v. Google: What Both Sides Argued in a Hearing to Fix Its Search Monopoly",
+          "link": "https://www.nytimes.com/2025/05/09/technology/google-chrome-monopoly-remedies.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/technology/google-chrome-monopoly-remedies.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/technology/google-chrome-monopoly-remedies.html",
+            "@rel": "standout"
+          },
+          "description": "The Justice Department and Google have wrapped up a three-week hearing that could have a major impact on the search giant and how people gather information online.",
+          "dc:creator": "David McCabe",
+          "pubDate": "Fri, 09 May 2025 17:48:51 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Search Engines"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Intelligence"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Decisions and Verdicts"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Web Browsers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Mergers, Acquisitions and Divestitures"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Regulation and Deregulation of Industry"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Antitrust Laws and Competition Issues"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Google Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Justice Department"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Mehta, Amit P"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Content Type: Service"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/09/multimedia/09biz-google-zmjt/09biz-google-zmjt-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Eric Lee/The New York Times",
+          "media:description": "Judge Amit P. Mehta of U.S. District Court in Washington ruled in August that Google had acted as a monopoly in search."
+        },
+        {
+          "title": "How iPhone Apps Are Changing After a Recent App Store Ruling",
+          "link": "https://www.nytimes.com/2025/05/09/technology/iphone-app-store-changes.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/technology/iphone-app-store-changes.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/technology/iphone-app-store-changes.html",
+            "@rel": "standout"
+          },
+          "description": "A federal judge\u2019s recent ruling has made it possible for apps to sell software and subscriptions outside the App Store without having to pay a commission.",
+          "dc:creator": "Tripp Mickle",
+          "pubDate": "Fri, 09 May 2025 23:08:12 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Apple Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "iPhone"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Mobile Applications"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "E-Commerce"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Gonzalez Rogers, Yvonne (1965- )"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Decisions and Verdicts"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Regulation and Deregulation of Industry"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/07/business/biz-apple-apps-kindle/biz-apple-apps-kindle-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Jaap Arriens/NurPhoto, via Getty Images",
+          "media:description": "Last week a federal judge said that Apple must begin allowing apps to offer promotions and collect payments from users directly. This has included Amazon\u2019s Kindle \u201cGet Book\u201d button in its app."
+        },
+        {
+          "title": "How Apple Created a Legal Mess When It Skirted Judge\u2019s Ruling",
+          "link": "https://www.nytimes.com/2025/05/09/technology/apple-app-store-antitrust.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/technology/apple-app-store-antitrust.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/technology/apple-app-store-antitrust.html",
+            "@rel": "standout"
+          },
+          "description": "Court documents show the company commissioned a sham report and lied on the stand to justify its actions, which will cast a shadow over future lawsuits.",
+          "dc:creator": "Tripp Mickle",
+          "pubDate": "Fri, 09 May 2025 23:07:33 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Apple Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Mobile Applications"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Antitrust Laws and Competition Issues"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Cook, Timothy D"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "E-Commerce"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Suits and Litigation (Civil)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computer and Video Games"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Prices (Fares, Fees and Rates)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Epic Games"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Gonzalez Rogers, Yvonne (1965- )"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Decisions and Verdicts"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/07/multimedia/biz-apple-legalmess-jkgq/biz-apple-legalmess-jkgq-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Pool photo by Kevin Lamarque",
+          "media:description": "Tim Cook, Apple\u2019s chief executive, and other executives were criticized in a federal judge\u2019s ruling last week."
+        },
+        {
+          "title": "The 2006 Zuckerberg Quote at the Center of Meta\u2019s Antitrust Trial",
+          "link": "https://www.nytimes.com/2025/05/09/technology/meta-antitrust-trial-competitors.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/09/technology/meta-antitrust-trial-competitors.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/09/technology/meta-antitrust-trial-competitors.html",
+            "@rel": "standout"
+          },
+          "description": "\u201cFacebook is about real connections to actual friends,\u201d Mark Zuckerberg said. Here\u2019s why that could be a problem for Meta.",
+          "dc:creator": "Cecilia Kang",
+          "pubDate": "Fri, 09 May 2025 14:55:05 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Social Media"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Antitrust Laws and Competition Issues"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Mobile Applications"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Instant Messaging"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Mergers, Acquisitions and Divestitures"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Online Advertising"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Instagram Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Federal Trade Commission"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Meta Platforms Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "WhatsApp Inc"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/05/multimedia/00biz-meta-market-zuckerberg-fcwq/00biz-meta-market-zuckerberg-fcwq-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Kenny Holston/The New York Times",
+          "media:description": "Mark Zuckerberg, the founder and chief executive of Meta, testifying at a Senate Judiciary Committee hearing last year."
+        },
+        {
+          "title": "Elon Musk\u2019s xAI in New Funding Talks",
+          "link": "https://www.nytimes.com/2025/05/08/technology/xai-elon-musk-funding-value.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/08/technology/xai-elon-musk-funding-value.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/08/technology/xai-elon-musk-funding-value.html",
+            "@rel": "standout"
+          },
+          "description": "The discussions follow those of rival OpenAI, which recently closed a funding round that valued it at $300 billion.",
+          "dc:creator": "Cade Metz",
+          "pubDate": "Fri, 09 May 2025 01:43:31 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Intelligence"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Venture Capital"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Start-ups"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "ChatGPT"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "OpenAI Labs"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "X.ai Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "X (Formerly Twitter)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Musk, Elon"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/08/multimedia/08biz-xai-funding-bhcv/08biz-xai-funding-bhcv-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Eric Lee/The New York Times",
+          "media:description": "Elon Musk\u2019s xAI is now intertwined with X, his social media company."
+        },
+        {
+          "title": "Bill Gates Explains His Plans to Close the Gates Foundation in 2045",
+          "link": "https://www.nytimes.com/2025/05/08/magazine/bill-gates-foundation-closing-2045.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/08/magazine/bill-gates-foundation-closing-2045.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/08/magazine/bill-gates-foundation-closing-2045.html",
+            "@rel": "standout"
+          },
+          "description": "In a wide-ranging interview, he explains his decision \u2014 amid the Trump administration\u2019s assault on foreign aid \u2014 to accelerate the end of his giving.",
+          "dc:creator": "David Wallace-Wells",
+          "pubDate": "Thu, 08 May 2025 19:23:42 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Gates, Bill"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Gates, Bill and Melinda, Foundation"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Foreign Aid"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Philanthropy"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Trump, Donald J"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Developing Countries"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Medicine and Health"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Humanitarian Aid"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Gates, Melinda"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "United States Politics and Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Vaccination and Immunization"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Epidemics"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Global Fund to Fight AIDS, Tuberculosis and Malaria"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Children and Childhood"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Deaths (Fatalities)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Content Type: Personal Profile"
+            }
+          ],
+          "media:content": {
+            "@height": "1799",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/18/magazine/18mag-gates-02/18mag-gates-02-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Katy Grannan for The New York Times",
+          "media:description": "\u201cI think it\u2019s objective to say to you that things will be better in the next 20 years.\u201d"
+        },
+        {
+          "title": "OpenAI Hires Instacart Chief Fidji Simo to Run Business and Operations",
+          "link": "https://www.nytimes.com/2025/05/08/technology/openai-fidji-simo.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/08/technology/openai-fidji-simo.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/08/technology/openai-fidji-simo.html",
+            "@rel": "standout"
+          },
+          "description": "Sam Altman, OpenAI\u2019s chief executive, said he hired Instacart\u2019s Fidji Simo to join in a new role as chief executive of applications.",
+          "dc:creator": "Mike Isaac",
+          "pubDate": "Thu, 08 May 2025 05:53:47 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "OpenAI Labs"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Altman, Samuel H"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Simo, Fidji"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Intelligence"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Appointments and Executive Changes"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "California"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Instacart"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Delivery Services"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/08/multimedia/08biz-openai-wckv/08biz-openai-wckv-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Stuart Isett/Fortune/Shutterstock",
+          "media:description": "Fidji Simo, Instacart\u2019s chief executive, is joining OpenAI as chief executive of applications."
+        },
+        {
+          "title": "Uber Revenue Is Up 14%, Despite Economic Fears",
+          "link": "https://www.nytimes.com/2025/05/07/technology/uber-earnings-revenue-tariffs.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/07/technology/uber-earnings-revenue-tariffs.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/07/technology/uber-earnings-revenue-tariffs.html",
+            "@rel": "standout"
+          },
+          "description": "The company also predicted that business in the current quarter would be stronger than Wall Street had predicted.",
+          "dc:creator": "Eli Tan",
+          "pubDate": "Wed, 07 May 2025 18:06:13 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Car Services and Livery Cabs"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Driverless and Semiautonomous Vehicles"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Company Reports"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Automobile Insurance and Liability"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Uber Technologies Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "UberEats"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Khosrowshahi, Dara"
+            }
+          ],
+          "media:content": {
+            "@height": "1622",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/07/multimedia/07biz-uber-earnings-kzgp/07biz-uber-earnings-kzgp-mediumSquareAt3X.jpg",
+            "@width": "1622"
+          },
+          "media:credit": "Nam Y. Huh/Associated Press",
+          "media:description": "Uber also announced a handful of new autonomous vehicle partnerships."
+        },
+        {
+          "title": "How to Use A.I.-Powered Writing Tools on Your iPhone and Android",
+          "link": "https://www.nytimes.com/2025/05/07/technology/personaltech/ai-writing-tools-phone.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/07/technology/personaltech/ai-writing-tools-phone.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/07/technology/personaltech/ai-writing-tools-phone.html",
+            "@rel": "standout"
+          },
+          "description": "Artificial intelligence software \u2014 some already free on your device \u2014 can quickly compose and edit documents. But be sure to check its work.",
+          "dc:creator": "J. D. Biersdorfer",
+          "pubDate": "Wed, 07 May 2025 15:30:56 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Artificial Intelligence"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Writing and Writers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "iPhone"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "iOS (Operating System)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Google Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Android (Operating System)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            }
+          ],
+          "media:content": {
+            "@height": "1076",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/07/technology/personaltech/07BIZ-TECHTIP-TOP/07BIZ-TECHTIP-TOP-mediumSquareAt3X.jpg",
+            "@width": "1075"
+          },
+          "media:credit": "Apple",
+          "media:description": "The writing tools in Apple Intelligence can compose, edit, condense and rewrite text for you, making it easier to draft documents on a smartphone or tablet with minimal typing or voice input."
+        },
+        {
+          "title": "NSO Group Ordered to Pay Meta $167 Million in Damages",
+          "link": "https://www.nytimes.com/2025/05/06/technology/nso-meta-damages-whatsapp.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/06/technology/nso-meta-damages-whatsapp.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/06/technology/nso-meta-damages-whatsapp.html",
+            "@rel": "standout"
+          },
+          "description": "Meta had sued the firm, NSO Group, for using its spyware to hack 1,400 WhatsApp accounts belonging to journalists, dissidents and others.",
+          "dc:creator": "Eli Tan and Sheera Frenkel",
+          "pubDate": "Tue, 06 May 2025 23:40:25 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Meta Platforms Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "NSO Group"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Suits and Litigation (Civil)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Compensation for Damages (Law)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Cyberwarfare and Defense"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Social Media"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Cyberattacks and Hackers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Surveillance of Citizens by Government"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Mobile Applications"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computer Security"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Facebook Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "Instagram Inc"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_org",
+              "#text": "WhatsApp Inc"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/06/multimedia/06biz-whatsapp-nso-jmlh/06biz-whatsapp-nso-jmlh-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Amit Elkayam for The New York Times",
+          "media:description": "An NSO Group office in Sapir, Israel. A spokesman for the company said it would pursue an appeal."
+        },
+        {
+          "title": "Elon Musk Tried Keeping Issues at His Texas Mansion Private, Emails Show",
+          "link": "https://www.nytimes.com/2025/05/06/technology/elon-musk-texas-neighbors.html",
+          "guid": {
+            "@isPermaLink": "true",
+            "#text": "https://www.nytimes.com/2025/05/06/technology/elon-musk-texas-neighbors.html"
+          },
+          "atom:link": {
+            "@href": "https://www.nytimes.com/2025/05/06/technology/elon-musk-texas-neighbors.html",
+            "@rel": "standout"
+          },
+          "description": "The tech billionaire\u2019s staff was concerned that correspondence about his home in West Lake Hills would become public after neighbors complained.",
+          "dc:creator": "Kirsten Grind",
+          "pubDate": "Wed, 07 May 2025 00:47:52 +0000",
+          "category": [
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Zoning"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Computers and the Internet"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Fences and Property Barriers"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Freedom of Information Act"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Real Estate and Housing (Residential)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "Building (Construction)"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/des",
+              "#text": "City Councils"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_per",
+              "#text": "Musk, Elon"
+            },
+            {
+              "@domain": "http://www.nytimes.com/namespaces/keywords/nyt_geo",
+              "#text": "West Lake Hills (Tex)"
+            }
+          ],
+          "media:content": {
+            "@height": "1800",
+            "@medium": "image",
+            "@url": "https://static01.nyt.com/images/2025/05/06/multimedia/BIZ-MUSK-MANSION-top-mktp/BIZ-MUSK-MANSION-top-mktp-mediumSquareAt3X.jpg",
+            "@width": "1800"
+          },
+          "media:credit": "Jordan Vonderhaar for The New York Times",
+          "media:description": "A \u201cNo Trespassing\u201d sign near Elon Musk\u2019s properties in West Lake Hills, Texas."
+        }
+      ]
+    }
+  }
+}
